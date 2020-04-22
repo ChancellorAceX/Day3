@@ -1,8 +1,8 @@
 Prompt:
 Jot down at least 5 questions that you have about jQuery and interactive web apps so far
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. What kind of applications does jQuery have aside from obvious capabilities?
+2. Can jQuery be used to make fully dynamic applications or are other libraries required?
+3. What other kinds of libraries exist, and what kinds of applications do they have?
+4. Are there any rules regarding the differences between mobile and pc web pages for useing jQuery?
+5. What types of apps use jQuery?
