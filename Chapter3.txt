@@ -1,0 +1,8 @@
+Prompt:
+Jot down at least 5 questions that you have about jQuery and interactive web apps so far
+
+1. 
+2. 
+3. 
+4. 
+5. 
